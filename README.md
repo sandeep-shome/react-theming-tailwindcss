@@ -9,7 +9,7 @@ A simple React application demonstrating **light/dark theme toggling** using **R
 - Context API for global state management
 - Built with Vite + Tailwind CSS
 
-[🚀 Live demo](https://react-theme-tailwindcss.netlify.app/)
+🚀 [Live demo](https://react-theme-tailwindcss.netlify.app/)
 
 ## 📦 Installation
 
