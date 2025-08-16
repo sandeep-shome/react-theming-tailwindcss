@@ -1,12 +1,26 @@
-# React + Vite
+# React Theme Toggle (Context API)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application demonstrating **light/dark theme toggling** using **React Context API**, built with **Vite** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Light & Dark theme support
+- Theme persistence with localStorage
+- Context API for global state management
+- Built with Vite + Tailwind CSS
 
-## Expanding the ESLint configuration
+## 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+# clone the repo
+git clone https://github.com/<your-username>/<your-repo>.git
+
+# navigate to project folder
+cd <your-repo>
+
+# install dependencies
+npm install
+
+# start development server
+npm run dev
+```
