@@ -4,7 +4,7 @@ const GithubStars = () => {
   const [stars, setStars] = useState(0);
   const fetchStarts = async () => {
     const res = await fetch(
-      "https://api.github.com/repos/sandeep-shome/html-projects",
+      "https://api.github.com/repos/sandeep-shome/react-theming-tailwindcss",
       { method: "GET" }
     );
     const data = await res.json();
