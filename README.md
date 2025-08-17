@@ -18,7 +18,7 @@ A simple React application demonstrating **light/dark theme toggling** using **R
 git clone https://github.com/sandeep-shome/react-theming-tailwindcss.git
 
 # navigate to project folder
-cd <your-repo>
+cd react-theming-tailwindcss
 
 # install dependencies
 npm install
